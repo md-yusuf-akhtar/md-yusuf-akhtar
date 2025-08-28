@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Md Yusuf
 
-I'm a **Software Developer** with hands-on experience building fast, accessible, and production-grade web applications. I enjoy solving real problems through thoughtful design, clean code, and modern technologies.
+I'm a **Software Engineer** with hands-on experience building fast, accessible, and production-grade web applications. I enjoy solving real problems through thoughtful design, clean code, and modern technologies.
 
 ---
 
