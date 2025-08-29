@@ -34,9 +34,3 @@ I regularly solve coding challenges to sharpen my skills in algorithms, data str
 
 - **LeetCode:** 2460+ rating, 550+ problems solved  
 - **GeeksforGeeks:** 2160+ rating, 60+ problems solved
-
----
-
-### 📫 Let’s Connect
-
-Feel free to check out my projects, follow my work, or connect with me on [LinkedIn](https://www.linkedin.com/in/md-yusuf-akhtar/)
