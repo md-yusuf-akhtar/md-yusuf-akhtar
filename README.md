@@ -19,7 +19,7 @@ I'm a **Software Engineer** with hands-on experience building fast, accessible, 
 - **Programming:** JavaScript (ES6+), TypeScript, Java, Python, SQL  
 - **Frontend:** React.js, Redux, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, React Router  
 - **Auth & APIs:** REST APIs, JWT, OAuth, GraphQL  
-- **AI & Tooling:** GitHub Copilot, ChatGPT API, Prompt Engineering, OpenAI API, Real-time Analytics  
+- **AI & Tooling:** GitHub Copilot, Prompt Engineering, OpenAI API, Real-time Analytics  
 - **Tools:** Git, Webpack, Babel, Vite, NPM, Postman, VS Code  
 - **Testing:** Jest, Enzyme, React Testing Library, Cypress  
 - **Workflow:** Agile (Scrum), CI/CD (GitHub Actions, Vercel), Debugging, Performance Tuning  
