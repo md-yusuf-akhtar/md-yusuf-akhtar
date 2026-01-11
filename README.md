@@ -17,7 +17,7 @@ Frontend Software Engineer with **2+ years of experience building and maintainin
 - **Tools:** Git, npm, CI/CD fundamentals, AWS (S3, EC2 – basic)
 
 ## 🧠 Problem Solving
-- **LeetCode contest rating:** 2462 (Top 0.38% globally)
+- **LeetCode contest rating:** 2462 (Top 0.36% globally)
 - Solved **560+ Data Structures & Algorithms problems**
 - Apply algorithmic thinking to frontend challenges such as:
   - Optimizing render paths
